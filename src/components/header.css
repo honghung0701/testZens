@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 100px;
+    align-items: center;
+}
+.leftHeader a img {
+    width: 70px;
+}
+.rightHeader {
+    display: flex;
+}
+.rightHeader p {
+    margin-right: 10px;
+    text-align: right;
+    color: #d0d0d0;
+}
+.rightHeader p span {
+    color: #616161;
+}
+.rightHeader img {
+    width: auto;
+    height: 70px;
+    border-radius: 50%;
+}
